@@ -1,0 +1,23 @@
+.chip{
+    margin: 0 5px 0 5px;
+    color: white !important;
+    padding: 0 5px 0 5px !important;
+    width: 60px !important;
+    font-weight: 700;
+}
+
+.pokemon-img{
+    width: 100%;
+}
+
+.pokemon-name{
+    font-weight: 900;
+}
+
+.subtitle{
+    font-weight: 500;
+}
+
+.circular-progress{
+    text-align: center;
+}
